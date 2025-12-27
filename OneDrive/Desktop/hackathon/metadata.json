@@ -1,0 +1,9 @@
+
+{
+  "name": "EventHub: Local Volunteer & Event Platform",
+  "description": "A comprehensive platform for students to find volunteer opportunities and for organizers to manage local events with AI-powered recommendations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
